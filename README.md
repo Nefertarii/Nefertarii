@@ -20,6 +20,7 @@
 
 <h4 align="center"> I want learn </h4>
 <p align="center"> 
+<img src=https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B>
 <img src=https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624>
 <img src=https://img.shields.io/badge/-TCP/IP-222222?style=flat&logo=cisco&logoColor=white>
 <img src=https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql>
