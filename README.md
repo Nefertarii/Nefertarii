@@ -32,6 +32,6 @@
 </p>
 
 ### Connect with me 
-### [MyBlog](http://www.webwasi.com  "仍在开发 2021-09-09"): www.webwasi.com  
+### [MyBlog](http:/159.75.51.91:8000/  "仍在开发 2021-09-09"): www.webwasi.com  
 ### ![LinkedIn](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white) : hncsgwc@gmail.com  
 ### ![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/%E5%8D%88%E7%A8%8B-%E9%83%AD-657311189/      
