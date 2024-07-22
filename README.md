@@ -1,5 +1,5 @@
 <p align="center">
-<h4 align="center"> <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">Hi, I’m @Nefertarii, And I’m currently working on something cool break things 😉</h4>
+<h4 align="center"> <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">Hi, I’m @wasi, And I’m currently working on something cool break things 😉</h4>
 
 <h4 align="center"> Languages I use </h4>
 <p align="center"> 
@@ -26,12 +26,3 @@
 <img src=https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql>
 <img src=https://img.shields.io/badge/-ComputerScience-000000?style=flat&logo=CS>
 </p>
-
-<p align="center"> 
-<img src=https://github-readme-stats.vercel.app/api?username=Nefertarii&show_icons=true&theme=radical>
-</p>
-
-### Connect with me 
-### [MyBlog](http:/159.75.51.91:8000/  "仍在开发 2021-09-09"): www.webwasi.com  
-### ![LinkedIn](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white) : hncsgwc@gmail.com  
-### ![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) : https://www.linkedin.com/in/hncsgwc/      
